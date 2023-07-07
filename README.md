@@ -11,7 +11,7 @@ Document
 UploadUser  
 UploadDate
 5.	Display success message on web page and show document list using angular data table with filters and sorting option
-6.	Fork this repository and create PR with your code changes
+6.	Fork this repository and we will review your code from the fork.
 
 ## Tech Stack:  
 Springboot  
